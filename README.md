@@ -1,0 +1,2 @@
+# kickstartGit
+Starting with Git
